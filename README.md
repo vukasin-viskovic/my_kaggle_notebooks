@@ -4,6 +4,8 @@ All of the notebooks can be found [here](https://www.kaggle.com/wolfsdata/code),
 
 ## 1. [Exploring Udemy Courses](https://www.kaggle.com/code/wolfsdata/udemy-courses-exploration/notebook?scriptVersionId=113207896) with Python, on Kaggle
 
+![Code excerpt](./images/Project1.png)
+
 **Skills this project showcases:**
 - Working with **Pandas DataFrames**
 - Working with **datetime objects**
@@ -16,6 +18,8 @@ All of the notebooks can be found [here](https://www.kaggle.com/wolfsdata/code),
 ---
 
 ## 2. [Exploring a dataset on layoffs 2020 - 2022](https://www.kaggle.com/code/wolfsdata/layoffs-worldwide-2020-2022/notebook?scriptVersionId=113375157) with Python, on Kaggle
+
+![Code excerpt](./images/Project2.png)
 
 **Skills showcased:**
 - Data manipulation with **Pandas**
@@ -34,6 +38,8 @@ All of the notebooks can be found [here](https://www.kaggle.com/wolfsdata/code),
 ---
 
 ## 3. [Cellphone price prediction - Decision Trees and Random Forests](https://www.kaggle.com/code/wolfsdata/price-classification-trees-and-forests/notebook) with Python & Scikit-learn
+
+![Code excerpt](./images/Project5.png)
 
 **Skills showcased:**
 - Data Visualization (correlation heatmaps) with **plotly**
